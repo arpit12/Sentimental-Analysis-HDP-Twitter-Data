@@ -1,3 +1,3 @@
 ######################## How to Run #############################
 
-All instructions are in setup setupSentiments.sql .
+All instructions are in setupSentiments.sql .
