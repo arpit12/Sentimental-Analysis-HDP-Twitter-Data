@@ -7,6 +7,8 @@ shark/bin/beeline
 
 wget http://s3.amazonaws.com/hw-sandbox/tutorial13/SentimentFiles.zip
 
+locally also download: for testing..
+
 cd SentimentFiles/tweets_raw
 ~/ephemeral-hdfs/bin/hadoop fs -mkdir /upload
 ~/ephemeral-hdfs/bin/hadoop fs -copyFromLocal . /upload
